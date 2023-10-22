@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\bin\Debug\简易班里挑一.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\bin\Debug\简易班里挑一.exe
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\bin\Debug\简易班里挑一.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\obj\Debug\简易班里挑一.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\obj\Debug\简易班里挑一.Frm.resources
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\obj\Debug\简易班里挑一.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\obj\Debug\简易班里挑一.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\obj\Debug\简易班里挑一.exe
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\obj\Debug\简易班里挑一.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\bin\Debug\SunnyUI.dll
+c:\users\administrator\documents\visual studio 2015\Projects\简易班里挑一\简易班里挑一\bin\Debug\SunnyUI.Common.dll
